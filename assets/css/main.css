@@ -2929,7 +2929,7 @@ input, select, textarea {
 			}
 
 				.main .container:before {
-					display: none;
+					display: block;
 				}
 	}
 
